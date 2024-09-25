@@ -1,0 +1,72 @@
+[en] 
+
+VICTIM_SECURED = [CSDM Knife Bounty] Victim Was Secured !
+VICTIM_DIDNT_LOSE = [CSDM Knife Bounty] You Didn't Lose Your Money Because You Was Secured !
+VICTIM_MONEY_LOW = [CSDM Knife Bounty] Victim's Money Was Low, You Won Nothing ! 
+ATTACKER_BOUNTY = [CSDM Knife Bounty] You've Taken %s 's Bounty Of $%d !
+VICTIM_LOST_MONEY = [CSDM Knife Bounty] %s Has Taken Your Bounty Of $%d !
+SECURE_AD = [CSDM Knife Bounty] To Secure Your Money Type /secure !
+CANT_SECURE_DEAD = [CSDM Knife Bounty] You Can't Secure While Dead !
+SECURE_DISABLED = [CSDM Knife Bounty] Securing Is Currently Disabled !
+NOT_ENOUGH_MONEY = [CSDM Knife Bounty] Not Enough Money To Secure !
+SECURED_MONEY = [CSDM Knife Bounty] You Paid $%d To Secure Your Money, You Won't Lose Your Money If You Get Knifed !
+
+[de]
+VICTIM_SECURED = [CSDM Knife Bounty] Opfer wurde gesichert!
+VICTIM_DIDNT_LOSE = [CSDM Knife Bounty] Du hast dein Geld nicht verloren, weil du gesichert bist!
+VICTIM_MONEY_LOW = [CSDM Knife Bounty] Das Geld des Opfers war zu niedrig, du hast nichts gewonnen!
+ATTACKER_BOUNTY = [CSDM Knife Bounty] Du hast das Kopfgeld %s 'von  $%d genommen !
+VICTIM_LOST_MONEY = [CSDM Knife Bounty] %s hat das Kopfgeld von $%d genommen !
+SECURE_AD = [CSDM Knife Bounty] Um dein Geld zu sichern benutze /secure !
+CANT_SECURE_DEAD = [CSDM Knife Bounty] Du kannst dein Geld nicht sichern wenn du nicht tot bist !
+SECURE_DISABLED = [CSDM Knife Bounty] Das Sichern ist derzeit nicht möglich !
+NOT_ENOUGH_MONEY = [CSDM Knife Bounty] Du hast nicht genug Geld um es zu sichern !
+SECURED_MONEY = [CSDM Knife Bounty] Du hast $%d gezahlt um dein Geld zu sichern. Du wirst dein Geld nicht verlieren wenn du gemessert wirst.
+
+[pl]
+VICTIM_SECURED = [CSDM Knife Bounty] Ofiara byla ubezpieczona !
+VICTIM_DIDNT_LOSE = [CSDM Knife Bounty] Nie straciles pieniedzy poniewaz byles ubezpieczony !
+VICTIM_MONEY_LOW = [CSDM Knife Bounty] Ofiara miala niewystarczajaca ilosc pieniedzy. Nic nie dostales ! 
+ATTACKER_BOUNTY = [CSDM Knife Bounty] Zabrales %s nagrody graczowi $%d !
+VICTIM_LOST_MONEY = [CSDM Knife Bounty] %s zabral Ci $%d pieniedzy !
+SECURE_AD = [CSDM Knife Bounty] Aby ubezpieczyc swoje pieniadze wpisz /secure !
+CANT_SECURE_DEAD = [CSDM Knife Bounty] Nie mozesz ubezpieczyc pieniedzy kiedy nie zjesz  !
+SECURE_DISABLED = [CSDM Knife Bounty] Ubezpieczenie pieniedzy jest aktualnie wylaczone !
+NOT_ENOUGH_MONEY = [CSDM Knife Bounty] Niewystarczajaca ilosc pieniedzy do ubezpieczenia !
+SECURED_MONEY = [CSDM Knife Bounty] Zaplaciles $%d kaucji aby zabezpieczyc swoje pieniadze. Nie stracisz ich jezeli zostaniesz zabity z noza !
+
+[mk]
+VICTIM_SECURED = [CSDM Knife Bounty] Zhrtvata beshe osigurana !
+VICTIM_DIDNT_LOSE = [CSDM Knife Bounty] Ne gi zagubi parite zatoa shto beshe osiguran !
+VICTIM_MONEY_LOW = [CSDM Knife Bounty] Zhrtvata imashe malku pari. Ne dobi nishto od nego !
+ATTACKER_BOUNTY = [CSDM Knife Bounty] Zema nagradata na %s od $%d !
+VICTIM_LOST_MONEY = [CSDM Knife Bounty] %s ja zema tvojata nagrada od $%d !
+SECURE_AD = [CSDM Knife Bounty] Za da gi osigurash tvoite pari, napishi /secure !
+CANT_SECURE_DEAD = [CSDM Knife Bounty] Ne mozesh da se osigurash dodeka si mrtov !
+SECURE_DISABLED = [CSDM Knife Bounty] Osiguruvanjeto momentalno e isklucheno !
+NOT_ENOUGH_MONEY = [CSDM Knife Bounty] Nemash dovolno pari za osiguruvanje !
+SECURED_MONEY = [CSDM Knife Bounty] Plati $%d za osigiruvanje na parite i istite nema da gi izgubish ako te zakolat !
+
+[bp]
+VICTIM_SECURED = [Olha-a-Faca] A Vitima tinha seguro contra facadas!
+VICTIM_DIDNT_LOSE = [Olha-a-Faca] Voce nao perdeu o seu dinheiro por que tinha seguro contra facadas!
+VICTIM_MONEY_LOW = [Olha-a-Faca] A vitima estava durinha da silva. Voce nao ganhou nenhum dinheiro extra! 
+ATTACKER_BOUNTY = [Olha-a-Faca] Voce pegou de %s a recompensa de $%d!
+VICTIM_LOST_MONEY = [Olha-a-Faca] %s pegou sua recompensa de $%d!
+SECURE_AD = [Olha-a-Faca] Para proteger seu dinheiro contra esfaqueadores, digite /secure
+CANT_SECURE_DEAD = [Olha-a-Faca] Voce nao pode comprar um seguro quando esta morto!
+SECURE_DISABLED = [Olha-a-Faca] A venda de seguros estah desativada!
+NOT_ENOUGH_MONEY = [Olha-a-Faca] Voce estah muito duro para comprar um seguro!
+SECURED_MONEY = [Olha-a-Faca] Voce pagou $%d para proteger o seu dinheiro. Esfaqueadores nao poderao pegar seu dinheiro!
+
+[ro] 
+VICTIM_SECURED = [CSDM Knife Bounty] Victima a fost Securizata !
+VICTIM_DIDNT_LOSE = [CSDM Knife Bounty] Nu ai pierdut banii deoarece ai fost Securizat !
+VICTIM_MONEY_LOW = [CSDM Knife Bounty] Banii victimei erau scazuti, Nu ai castigat nimic ! 
+ATTACKER_BOUNTY = [CSDM Knife Bounty] Ai luat Recomenpsa lui %s de $%d !
+VICTIM_LOST_MONEY = [CSDM Knife Bounty] %s Ti-a luat Recompensa de $%d !
+SECURE_AD = [CSDM Knife Bounty] Sa-ti securizezi banii scrie /secure !
+CANT_SECURE_DEAD = [CSDM Knife Bounty] Nu poti sa te securizezi in timp ce esti mort !
+SECURE_DISABLED = [CSDM Knife Bounty] Securitatea este momentan oprita !
+NOT_ENOUGH_MONEY = [CSDM Knife Bounty] Nu ai destui bani sa te securizezi !
+SECURED_MONEY = [CSDM Knife Bounty] Ai platit $%d sa-ti securizezi banii, Nu-ti vei pierde banii daca esti injunghiat !

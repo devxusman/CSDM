@@ -1,0 +1,55 @@
+[en]
+LOADED_VIP = Loaded 1 vip from database
+LOADED_VIPS = Loaded %d vips from database
+NO_VIPS = No vips found
+NO_ENTRY = You have no entry to the server...
+NO_FILE = File '%s' not found.
+VIPS_LIST = Vips List
+OUT_OF_RANGE = Player index out of range (%d).
+INVALID_FORMAT = Invalid format registration (%s).
+NO_ACC_COM = You have no access to that command.
+NO_ITEMS = Items were not added to the menu.
+FORMAT_ADD = Format: addvip <Name|IP|Steam> <Password> <access flags> <account flags> <Expired date (dd.mm.yy)>
+MENU_OPENING_AVAILABLE = The menu can be opened %d times per round.
+VIP_ADDED = VIP is added.
+VIP_MENU = \rVIP Menu \yBy \w[\rTSM - Mr.Pro\w]
+MENU_NEXT = Next
+MENU_BACK = Back
+MENU_EXIT = Exit
+
+[ru]
+LOADED_VIP = Loaded 1 vip from database
+LOADED_VIPS = Loaded %d vips from database
+NO_VIPS = No vips found
+NO_ENTRY = You have no entry to the server...
+NO_FILE = File '%s' not found.
+VIPS_LIST = Vips List
+OUT_OF_RANGE = Player index out of range (%d).
+INVALID_FORMAT = Invalid format registration (%s).
+NO_ACC_COM = You have no access to that command.
+NO_ITEMS = Дополнения не были добавлены в меню.
+FORMAT_ADD = Формат: addvip <Имя|IP|Steam> <Пароль> <Флаги доступа> <Флаги аккаунта> <Дата окончания (дд.мм.гг)>
+MENU_OPENING_AVAILABLE = Меню можно открыть только %d раз за раунд.
+VIP_ADDED = VIP добавлен.
+VIP_MENU = Меню
+MENU_NEXT = Дальше
+MENU_BACK = Назад
+MENU_EXIT = Выход
+
+[ro]
+LOADED_VIP = 1 VIP incarcat din fisier
+LOADED_VIPS = %d VIP-uri incarcate din fisier
+NO_VIPS = Nici un VIP nu a fost gasit
+NO_FILE = Fisierul '%s' nu a fost gasit
+VIPS_LIST = Lista VIP-urilor
+OUT_OF_RANGE = Index-ul jucatorului in afara razei de actiune (%d).
+INVALID_FORMAT = Format invalid de inregistrare (%s).
+NO_ACC_COM = Nu ai acces la comanda.
+NO_ITEMS = Itemele nu au fost adaugate la meniu.
+FORMAT_ADD = Format: addvip <nume|ip|steam> <parola> <accese> <flaguri>
+MENU_OPENING_AVAILABLE = Meniul poate fi deschis de %d ori pe runda .
+VIP_ADDED = VIP-ul a fost adaugat.
+VIP_MENU = Meniu VIP
+VIP_NEXT = Urmatorul
+VIP_BACK = Inapoi
+VIP_EXIT = Iesire 

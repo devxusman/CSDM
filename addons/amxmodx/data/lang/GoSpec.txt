@@ -1,0 +1,29 @@
+[en]
+GOSPEC_ALREADY_SPECTATOR = [CSDM] You Are Already A Spectator!
+GOSPEC_NOW_SPECTATOR = [CSDM] You Are Now a spectator.
+GOSPEC_NOT_SPECTATOR = [CSDM] You are not a spectator!
+GOSPEC_TRANSFERED_TO_PREVIOUS = [CSDM] You have been transfered back to your previous team.
+GOSPEC_TRANSFERED_TO_LESS = [CSDM] You have been transfered to the team with less players.
+GOSPEC_TRANSFERED_TO_OPPOSITE = [CSDM] You have been transfered to the opposite team.
+GOSPEC_CANT_USE = [CSDM] You can't use this command while as a spectator.
+GOSPEC_NO_ACCESS = [CSDM] You have no access to this command!
+
+[mk]
+GOSPEC_ALREADY_SPECTATOR = Vekje si spektator!
+GOSPEC_NOW_SPECTATOR = Se prefrli vo timot na spektatorite.
+GOSPEC_NOT_SPECTATOR = Ne si spektator!
+GOSPEC_TRANSFERED_TO_PREVIOUS = Prefrlen si nazad vo stariot tim.
+GOSPEC_TRANSFERED_TO_LESS = Prefrlen si vo timot so pomalku igrachi.
+GOSPEC_TRANSFERED_TO_OPPOSITE = Prefrlen si vo sprotivniot tim.
+GOSPEC_CANT_USE = Ne mozhesh da ja koristish ovaa komanda dodeka si spektator.
+GOSPEC_NO_ACCESS = Nemash dostap do ovaa komanda!
+
+[bg]
+GOSPEC_ALREADY_SPECTATOR = Veche si spektator!
+GOSPEC_NOW_SPECTATOR = Be prehvurlen v otbora na spektatorite.
+GOSPEC_NOT_SPECTATOR = Ne si spektator!
+GOSPEC_TRANSFERED_TO_PREVIOUS = Be prehvurlen v stariq si otbor.
+GOSPEC_TRANSFERED_TO_LESS = Be prehvurlen v otbora s po-malko igrachi.
+GOSPEC_TRANSFERED_TO_OPPOSITE = Be prehvurlen v protivnikoviq otbor.
+GOSPEC_CANT_USE = Ne mojesh da polzvash tazi komanda dokato si spektator.
+GOSPEC_NO_ACCESS = Nqmash dostup do tazi komanda!

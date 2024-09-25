@@ -1,0 +1,19 @@
+[en]
+ML_REKLAMA = To learn how to boost
+ML_DA_BOOSTUJES_IZ = To boost from
+ML_POSALJI_SMS = Send SMS to
+ML_SMS_FORMAT = SMS Format (Content of Message - Message Body)
+ML_TEKST_ZA_SLANJE = %s GTRS %s %s
+ML_CENA_SMSA = SMS Price
+ML_VISE_INFO = For more info visit GameTracker.rs
+ML_NASLOV_ZEMLJE_MENIJA = Choose Country:
+ 
+[sr]
+ML_REKLAMA = Da naucis kako da boostujes
+ML_DA_BOOSTUJES_IZ = Da boostujes iz
+ML_POSALJI_SMS = Posalji SMS na broj
+ML_SMS_FORMAT = SMS Format (Sadrzaj SMS-a)
+ML_TEKST_ZA_SLANJE = %s GTRS %s %s
+ML_CENA_SMSA = Cena SMS-a
+ML_VISE_INFO = Vise informacija na GameTracker.rs
+ML_NASLOV_ZEMLJE_MENIJA = Izaberi Zemlju:
