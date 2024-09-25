@@ -17,6 +17,7 @@ Features:
 8) VIP System with lot of privileges.
   - VIP Menu, VIP Shop, Extra damage, speed and more.
 11) Admin Menu with lot of functions.
+
 And more features you may experience when you will run the mod in your server.
 
 **Bugs:**: Downloading issues with Ak47 Paladin and M4a1 Dark Knight models (Disabled the plugins for now). 
