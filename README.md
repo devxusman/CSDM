@@ -20,5 +20,7 @@ Features:
 And more features you may experience when you will run the mod in your server.
 
 **Bugs:**: Downloading issues with Ak47 Paladin and M4a1 Dark Knight models (Disabled the plugins for now). 
+
 **Credits:** CSDM Team, JGHG, pro100web, serfreeman1337, OciXCrom, VeCo, Dias, schmurgel1983 (Sincere apologies if I missed someone).
+
 **NOTE:** If you experience any lag in your server, try disabling the excess plugins. NO support will be provided for this project as I don’t code for CS 1.6 anymore.
